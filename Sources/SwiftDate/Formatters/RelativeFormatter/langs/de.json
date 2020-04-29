@@ -14,9 +14,9 @@
       "next" : "nächstes Jahr"
     },
     "minute" : {
-      "future" : "in {0} m",
-      "current" : "in dieser Minute",
-      "past" : "vor {0} m"
+      "future" : "in {0} min",
+      "current" : "diese Minute",
+      "past" : "vor {0} min"
     },
     "day" : {
       "current" : "heute",
